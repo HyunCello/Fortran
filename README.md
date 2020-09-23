@@ -1,7 +1,7 @@
 # 포트란 90/95
 
 참고 블로그 : [https://sciphy.tistory.com/category/COM](https://sciphy.tistory.com/category/COM)
-
+[추가 자료 업로드](https://www.notion.so/hyuncello/b3c2e2c91a3845a6ba6f5d5790656656)
 
 # 간단한 구조
 
